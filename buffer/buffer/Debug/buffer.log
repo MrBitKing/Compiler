@@ -1,0 +1,6 @@
+﻿  platy_bt.c
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1): warning C4001: nonstandard extension 'single line comment' was used
+  buffer.c
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1): warning C4001: nonstandard extension 'single line comment' was used
+  Generating Code...
+  buffer.vcxproj -> C:\Users\Franck\Desktop\Compilers\Assignments\buffer\Debug\buffer.exe
